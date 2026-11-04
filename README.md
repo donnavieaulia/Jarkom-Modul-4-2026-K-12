@@ -3,7 +3,7 @@
 | Nama | NRP |
 |---|---|
 | Donnavie Aulia | 5027251093 |
-| _(nama anggota)_ | _(NRP)_ |
+| Ndaru Satria Tama | 5027251124 |
 
 Pembagian pengerjaan: **VLSM pada GNS3** (Donnavie Aulia) dan **CIDR pada Cisco Packet Tracer** (_(nama anggota)_).
 
