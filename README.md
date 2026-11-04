@@ -5,7 +5,7 @@
 | Donnavie Aulia | 5027251093 |
 | Ndaru Satria Tama | 5027251124 |
 
-Pembagian pengerjaan: **VLSM pada GNS3** (Donnavie Aulia) dan **CIDR pada Cisco Packet Tracer** (_(nama anggota)_).
+Pembagian pengerjaan: **VLSM pada GNS3** (Donnavie Aulia) dan **CIDR pada Cisco Packet Tracer** (Ndaru Satria Tama).
 
 ## Tabel IP Host
 
