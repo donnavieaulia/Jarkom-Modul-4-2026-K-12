@@ -1,5 +1,3 @@
-# K12 - Praktikum Modul 4 Komunikasi Data dan Jaringan Komputer 2026
-
 ## Subnetting CIDR pada Cisco Packet Tracer
 
 Laporan ini membahas pembagian alamat IPv4, penggabungan subnet secara CIDR, penempatan alamat pada perangkat, dan routing statis untuk topologi **Serial Experiments Lain - The Wired Expansion**. Prefix kelompok yang digunakan adalah **192.217.x.x**.
