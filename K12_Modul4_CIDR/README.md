@@ -2,8 +2,6 @@
 
 Laporan ini membahas pembagian alamat IPv4, penggabungan subnet secara CIDR, penempatan alamat pada perangkat, dan routing statis untuk topologi **Serial Experiments Lain - The Wired Expansion**. Prefix kelompok yang digunakan adalah **192.217.x.x**.
 
-Ruang lingkup laporan ini adalah implementasi **CIDR pada Cisco Packet Tracer**. Untuk memenuhi ketentuan dua metode yang berbeda pada modul, bagian GNS3 perlu menggunakan VLSM. Proyek GNS3 tidak termasuk dalam paket ini.
-
 | Komponen | Keterangan |
 | --- | --- |
 | Kelompok | K12 |
@@ -45,8 +43,6 @@ Ruang lingkup laporan ini adalah implementasi **CIDR pada Cisco Packet Tracer**.
 ### Screenshot Cisco Packet Tracer
 
 ![Screenshot topologi Cisco Packet Tracer](assets/screenshots/topologi-packet-tracer.png)
-
-*Screenshot topologi yang dikirimkan pengguna dari sesi Packet Tracer. Label pada file `.pkt` dalam paket ini telah dirapikan dan pengaturan huruf workspace dinaikkan dari 8 menjadi 12 poin.*
 
 ### Diagram topologi dengan label yang dirapikan
 
