@@ -44,7 +44,7 @@ Laporan ini membahas pembagian alamat IPv4, penggabungan subnet secara CIDR, pen
 
 ![Screenshot topologi Cisco Packet Tracer](assets/screenshots/topologi-packet-tracer.png)
 
-### Diagram topologi dengan label yang dirapikan
+### Diagram topologi
 
 ![Diagram dokumentasi topologi akhir](assets/diagram/topologi-rapi.svg)
 
